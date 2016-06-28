@@ -9,7 +9,7 @@ namespace break{
 {
     int unko= 1;
     int tinko = 2;
-    
+    int tintin = 0;
 
 
 }
